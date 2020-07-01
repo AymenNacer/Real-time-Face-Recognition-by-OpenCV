@@ -9,4 +9,5 @@ To run the face regonizer:
 2. once you install openCV, you need to upload a file called 'haarcascade_frontalface_default.xml', it is already uploaded in the code make sure it is the right path to the file.
 3. run the code
 
-![Alt Text](https://media.giphy.com/media/QtvNINR6QVKSVut26E/giphy.gif)
+![giphy](https://user-images.githubusercontent.com/67188835/86230787-6da73180-bb46-11ea-8b5a-be663e7376fa.gif)
+
