@@ -1,4 +1,4 @@
-#Real-time Face Recognition by OpenCV
+# Real-time Face Recognition by OpenCV
 
 Real-time Face Recognition by OpenCV package and Python, it detects faces through your webcam
 
