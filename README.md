@@ -1,6 +1,6 @@
 # Real-time Face Recognition by OpenCV
 
-Real-time Face Recognition by OpenCV package and Python, it detects faces through your webcam
+(Smart Methods Internship) Real-time Face Recognition by OpenCV package and Python, it detects faces through your webcam
 
 
 To run the face recognizer:
